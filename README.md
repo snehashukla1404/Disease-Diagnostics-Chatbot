@@ -2,8 +2,6 @@
 
 An AI-powered chatbot that interacts with users, collects symptoms, and predicts possible diseases using machine learning models.
 
----
-
 ## 📂 Project Structure
 Disease-Diagnostics-Chatbot/
 - chatbot.py           # Main chatbot application
