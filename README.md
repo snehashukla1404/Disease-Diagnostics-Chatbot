@@ -47,4 +47,10 @@ Disease-Diagnostics-Chatbot/
 - Add chatbot conversation history and export option
 - Deploy as a web app using Flask or Django
 
+## 📸 Screenshots
+### 🧠🔮 Disease Prediction
+![image](https://github.com/user-attachments/assets/694006cd-5313-4726-b4cf-631dbf911874)
+
+### 📚🩺 Disease Information Retrival
+![image](https://github.com/user-attachments/assets/ccac02f4-3a7c-4fb8-8a1b-586c8fea20a4)
 
